@@ -1,0 +1,6 @@
+# Ignore build outputs
+/build
+xor_encrypt
+*.o
+*.out
+*.log
